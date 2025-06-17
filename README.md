@@ -88,10 +88,7 @@ A partir de los hallazgos obtenidos, se sugieren los siguientes pasos:
 
 ## 📈 Recursos Adicionales
 
-- Código completo en `EDA_churn_analysis.ipynb`
 - Dataset original en formato JSON
-- Visualizaciones disponibles en la carpeta `/figuras`
-- Scripts de limpieza en `/utils/preprocessing.py`
 
 ---
 
